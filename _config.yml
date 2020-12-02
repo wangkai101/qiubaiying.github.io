@@ -4,21 +4,21 @@ SEOTitle: wk的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 645182907@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, wk的博客, wangkai, 王锴, iOS, Apple, iPhone"
 url: "http://wangkai101.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wangkai101" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "记录自己技术积累"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     
+weibo_username: "王二麻子"
 zhihu_username:     
 github_username:    
 facebook_username:  
